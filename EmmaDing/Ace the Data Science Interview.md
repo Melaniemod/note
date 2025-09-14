@@ -11,29 +11,6 @@ Another thing we can do is, we can also simplify the technical skills section. T
 
 
 
-## What are Good Questions to Ask at the End of Data Science Interviews? Easy Explanation for Beginners
-
-
-面试者的问题：
-
-where do you see the coming in five years? 
-What do you like most about working here? 
-What do you think makes this company's culture unique? 
-What major projects is the team I hope to join working on right now? Obviously, those are just some examples I give to you. You should base your questions on what you really want to know, and those typically come from your understanding of the coming and the position. 
-
-
-根据面试官的角色问问题
-
-管理者:
-what is your vision for the next years of the coming? 
-What gets you most excited about working here? 
-What skills and experiences, in your opinion, would make an excellent candidate?
-
-per:
-what are some interesting projects you are working on? 
-What are the most frequently used programming languages and technologies for data scientists in your company? 
-
-
 
 ## How to Answer 'Tell Me About Yourself' in Data Science Interviews: Easy Tips for Success
 

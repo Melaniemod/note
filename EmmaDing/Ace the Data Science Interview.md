@@ -12,27 +12,6 @@ Another thing we can do is, we can also simplify the technical skills section. T
 
 
 
-## How to Answer 'Tell Me About Yourself' in Data Science Interviews: Easy Tips for Success
-
-
-
-tell me about yourself
-
-
-I am currently a data scientist with Company, where I have been for the last two years. I got into data science almost four years ago, where I started working as a data scientist at Company, where I had a ton of exposure to data analysis, discovering insights from data, modeling data, and presenting important findings to different stakeholders. I consider that experience as a strong foundation for working as a data scientist in the industry. 
-
-Now, with that experience, I am looking for a job where I can grow more. Your company picked my interest because of a blog post that I read on your data science blog. It was about how \[Company] condenses data as a representation of the human voices of its customers, and how data scientists at your company can make an impact by thinking proactively about future opportunities. I like the idea of embedding data scientists into different teams rather than data scientists working as individual consultants working reactively. I am very quantitative and I want to make an impact utilizing my skills, so I would love to work for such a data-driven company. 
-
-I'm also looking for a role at a fast-growing company where I'll be able to work on projects from conception through to launch. I think my experience as a data scientist who works across functions will give me the background to work with different roles. That's a lot of what interests me in this role. I believe it's at the perfect time for me to dive in, especially as it's so closely related to what I am doing now.
-
-
-
-
-"how do you design an experiment,"
-
-"I can think of selecting the right metric, obtaining the minimum detectable effect, choosing the randomization unit, calculating the sample size, etc. Is there anything you want me to talk about specifically?" Then let the interviewer choose which part to dive into.
-
-
 
 
 ## Top 5 Statistics Concepts in Data Science Interviews: P-value, Confidence Interval, Power, Errors
